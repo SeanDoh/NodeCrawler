@@ -1,0 +1,16 @@
+{
+  "name": "NodeCrawler",
+  "version": "1.0.0",
+  "description": "Node.js web crawler with Puppeteer",
+  "main": "index.js",
+  "repository": "https://github.com/SeanDoh/NodeCrawler.git",
+  "author": "SeanDoh",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "puppeteer": "^2.0.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
